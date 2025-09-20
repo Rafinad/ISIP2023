@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Rafinadik черновики/Хранимые процедуры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Хранимые процедуры"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md",
+                "file": "Rafinadik черновики/Хранимые процедуры.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Хранимые процедуры"
             }
           },
           {
@@ -132,11 +132,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0350f2541313b7ef",
+  "active": "5e14ef88a2454287",
   "lastOpenFiles": [
-    "Без названия",
+    "Базы Данных/Хранимые процедуры.md",
+    "Rafinadik черновики/Хранимые процедуры.md",
+    "DimonX черновики",
+    "Roflan черновики",
+    "Rafinadik черновики",
+    "Без названия.md",
     "Управление проектами",
-    "Базы Данных",
-    "Без названия.md"
+    "Базы Данных"
   ]
 }
