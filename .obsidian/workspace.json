@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/Перегрузка операций.md",
+                "file": "Моделирование и анализ/Задание 1/Рефакторинг кода «Банкомат».md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перегрузка операций"
+              "title": "Рефакторинг кода «Банкомат»"
             }
           },
           {
@@ -106,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/Перегрузка операций.md",
+                "file": "Моделирование и анализ/Задание 1/Рефакторинг кода «Банкомат».md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Перегрузка операций"
+              "title": "Outline of Рефакторинг кода «Банкомат»"
             }
           },
           {
@@ -197,11 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0350f2541313b7ef",
+  "active": "1e7069d8ec76ca08",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ООП/Перегрузка операций.md",
-    "Моделирование и анализ/Задание 1/Задание 1.md",
+    "conflict-files-obsidian-git.md",
+    "Моделирование и анализ/Задание 1/Рефакторинг кода «Банкомат».md",
     "Моделирование и анализ/Задание 1",
     "Моделирование и анализ",
     "ООП/Коды от Мамрыкина",
