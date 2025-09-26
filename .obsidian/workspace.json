@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Rafinadik черновики/Исполнение.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Исполнение"
             }
           },
           {
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f188eeaf0b582584",
+  "active": "56d52fd383778623",
   "lastOpenFiles": [
-    "Rafinadik черновики/Исполнение.md",
     "conflict-files-obsidian-git.md",
+    "Rafinadik черновики/Исполнение.md",
     "Новый текстовый документ.txt",
     "Новая папка",
     "Управление проектами/Этапы жизненного цикла проекта.md",
