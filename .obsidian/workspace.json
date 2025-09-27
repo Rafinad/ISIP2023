@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Жизненный цикл"
             }
-          },
-          {
-            "id": "43b3a144597b0dba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Roflan черновики/Управление проектами/Жизненный цикл.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура conflict-files-obsidian-git"
+              "title": "Структура Жизненный цикл"
             }
           },
           {
@@ -200,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43b3a144597b0dba",
+  "active": "0350f2541313b7ef",
   "lastOpenFiles": [
-    "Roflan черновики/Управление проектами/Жизненный цикл.md",
     "conflict-files-obsidian-git.md",
+    "Roflan черновики/Управление проектами/Жизненный цикл.md",
     "Roflan черновики/Хранимые процедуры.md",
     "Rafinadik черновики/Основные.md",
     "Rafinadik черновики/Исполнение.md",
